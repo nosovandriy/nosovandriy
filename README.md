@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Andriy</h1>
 <h3 align="center">I'm frontend developer</h3>
-<h2 align="center"><a href="https://andriynosov.com/" target="_blank" rel="noreferrer"><a >My website portfolio</a></h2>
+<h2 align="center"><a href="https://andriynosov.com/" target="_blank" rel="noreferrer">My website portfolio</a></h2>
 
 
 - My comercial projects:
