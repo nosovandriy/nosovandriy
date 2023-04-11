@@ -3,13 +3,6 @@
 <h2 align="center"><a href="https://andriynosov.com/" target="_blank" rel="noreferrer">My website portfolio</a></h2>
 
 
-- My comercial projects:
-
-CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
-
-Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
-
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Development Stack
 
 ```javascript
@@ -21,6 +14,12 @@ const stack = {
   tools: ["Git", "Github", "VS Code", "Chrome Dev", "Jira"]
 }
 ```
+
+### My comercial projects:
+
+CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
+
+Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
