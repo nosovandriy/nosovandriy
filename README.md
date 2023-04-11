@@ -1,8 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Andriy</h1>
 <h3 align="center">I'm frontend developer</h3>
-
-- My Website portfolio [andriynosov.com](https://andriynosov.com/)
-
+<h2 align="center">My Website portfolio [andriynosov.com](https://andriynosov.com/)</h2>
 
 
 - My comercial projects:
