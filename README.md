@@ -14,11 +14,11 @@ Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 ```javascript
 const stack = {
-  code : [Javascript, Typescript, HTML, CSS],
-  jsFrameworks: [React, NextJS],
-  cssFrameworks: [SCSS, Tailwind, Bootstrap],
-  buildTools: [NPM, Babel, Redux, MobX, Vercel],
-  tools: [Git, Github, VS Code, Chrome Dev, Jira]
+  code : ["Javascript", "Typescript"," HTML", "CSS"],
+  jsFrameworks: ["React", "NextJS"],
+  cssFrameworks: ["SCSS", "Tailwind", "Bootstrap"],
+  buildTools: ["NPM", "Babel", "Redux", "MobX", "Vercel"],
+  tools: ["Git", "Github", "VS Code", "Chrome Dev", "Jira"]
 }
 ```
 
