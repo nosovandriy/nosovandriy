@@ -18,7 +18,7 @@ const stack = {
 
 CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
 
-Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
+Logistic company [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
