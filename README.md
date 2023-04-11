@@ -18,4 +18,4 @@ Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 
 
-![Profile views](https://gpvc.arturio.dev/nosovandriy&color=blue)
+![Profile views](https://gpvc.arturio.dev/nosovandriy)
