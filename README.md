@@ -15,19 +15,17 @@ Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 <a href="https://www.linkedin.com/in/andriy-nosov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-vetrov-a580b5238" height="30" width="40" /></a>
 </p>
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Web Development Stack...  
 
+
+const andriy = {
+  pronouns: "He" | "Him",
+  code : [Javascript, Typescript, HTML, CSS],
+  jsFrameworks: [React, NextJS],
+  cssFrameworks: [SCSS, Tailwind, Bootstrap],
+  buildTools: [NPM, Babel, Redux, MobX, Vercel],
+  tools: [Git, Github, VS Code, Chrome Dev, Jira]
+}
 
 
 ![Profile views](https://gpvc.arturio.dev/nosovandriy)
