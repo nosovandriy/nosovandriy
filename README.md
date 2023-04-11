@@ -21,6 +21,7 @@ const andriy = {
   buildTools: [NPM, Babel, Redux, MobX, Vercel],
   tools: [Git, Github, VS Code, Chrome Dev, Jira]
 }
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
