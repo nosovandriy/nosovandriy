@@ -16,4 +16,6 @@ Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 <a href="https://www.linkedin.com/in/andriy-nosov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-vetrov-a580b5238" height="30" width="40" /></a>
 </p>
 
+
+
 ![Profile views](https://gpvc.arturio.dev/nosovandriy)
