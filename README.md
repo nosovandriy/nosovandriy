@@ -4,11 +4,13 @@
 - My Website portfolio [andriynosov.com](https://andriynosov.com/)
 
 - My comercial projects:
+- 
 [CheeseCake shop](https://nahirna-cake.com.ua/)
 
 [Logistic companies](https://www.ukrainets.in.ua/)]
 
 - My training projects:
+- 
 [Todos app (React))](https://nosovandriy.github.io/react_todo-app-with-api/)
 
 [React Route Table (React)](https://nosovandriy.github.io/react_people-table-advanced/)
