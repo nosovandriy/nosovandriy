@@ -17,7 +17,7 @@ Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Web Development Stack...  
 
-
+```javascript
 const andriy = {
   pronouns: "He" | "Him",
   code : [Javascript, Typescript, HTML, CSS],
