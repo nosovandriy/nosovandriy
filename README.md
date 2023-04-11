@@ -3,25 +3,12 @@
 
 - My Website portfolio [andriynosov.com](https://andriynosov.com/)
 
+
 - My comercial projects:
 
 [CheeseCake shop](https://nahirna-cake.com.ua/)
 
 [Logistic companies](https://www.ukrainets.in.ua/)]
-
-- My training projects:
-
-[Todos app (React))](https://nosovandriy.github.io/react_todo-app-with-api/)
-
-[React Route Table (React)](https://nosovandriy.github.io/react_people-table-advanced/)
-
-[JS Employees Table (JS)](https://nosovandriy.github.io/js_employees_table_DOM/)
-
-[Dia website (HTML, CSS)](https://nosovandriy.github.io/layout_dia/)
-
-[Bakery website (HTML, CSS)](https://nosovandriy.github.io/layout_creativeBakery/)
-
-[Miami website (HTML, CSS)](https://nosovandriy.github.io/layout_miami/)
 
 
 <h3 align="left">Connect with me:</h3>
