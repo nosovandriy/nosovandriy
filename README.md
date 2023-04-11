@@ -10,7 +10,7 @@ CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
 Logistic companies [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Web Development Stack...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Development Stack
 
 ```javascript
 const stack = {
