@@ -16,6 +16,8 @@ const stack = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My comercial projects:
 
+Art vs War gallery [develop.artvswar.gallery](https://develop.artvswar.gallery/)
+
 CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
 
 Logistic company [ukrainets.in.ua](https://www.ukrainets.in.ua/)
