@@ -29,6 +29,8 @@ Logistic company [ukrainets.in.ua](https://www.ukrainets.in.ua/)
 <br />
 
 ![Andriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosovandriy&show_icons=true&theme=transparent)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosovandriy&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
