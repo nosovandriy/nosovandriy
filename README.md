@@ -17,13 +17,13 @@ const myStack = {
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My comercial projects:
 
-Manoli parfume store (in the process...) [manoli.ua](https://manoli.ua)
+Manoli parfume store (in the process...) [https://manoli.ua](https://manoli.ua)
 
-Art vs War gallery [artvswar.gallery](https://artvswar.gallery/)
+Art vs War gallery [https://artvswar.gallery](https://artvswar.gallery/)
 
-CheeseCake shop [nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
+CheeseCake shop [https://nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
 
-Logistic company [ukrainets.in.ua](https://www.ukrainets.in.ua/)
+Logistic company [https://ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
 <br />
 <br />
