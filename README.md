@@ -2,7 +2,7 @@
 <h2 align="center"><a href="https://andriynosov.com/" target="_blank" rel="noreferrer">My website portfolio</a></h2>
 
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Web Development Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Development Stack
 
 ```javascript
 const myStack = {
@@ -15,7 +15,7 @@ const myStack = {
 }
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My comercial projects:
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My comercial projects:
 
 Manoli parfume store (in the process...) [https://manoli.ua](https://manoli.ua)
 
