@@ -31,10 +31,7 @@ MY PORTFOLIO [andriynosov.com](https://andriynosov.com)
 <br />
 <br />
 
-<p align="center">
-  <a href='https://www.codewars.com/users/nosovandriy'><img src="https://www.codewars.com/users/nosovandriy/badges/small" alt="CodeWars"/></a>
-  <a href='https://www.codewars.com/users/nosovandriy'><img src="https://www.codewars.com/users/nosovandriy/badges/big" alt="CodeWars"/></a>
-</p>
+<a href='https://www.codewars.com/users/nosovandriy'><img src="https://www.codewars.com/users/nosovandriy/badges/large" alt="CodeWars"/></a>
 
 ![Andriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosovandriy&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosovandriy&layout=compact)
 
