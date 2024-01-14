@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andriy, a frontend developer</h1>
+<h1 align="center">Hi, I'm Andriy, a frontend developer from Ukraine</h1>
 <h2 align="center"><a href="https://andriynosov.com/" target="_blank" rel="noreferrer">My website portfolio</a></h2>
 
 
@@ -30,6 +30,10 @@ Logistic company [https://ukrainets.in.ua](https://www.ukrainets.in.ua/)
 MY PORTFOLIO [andriynosov.com](https://andriynosov.com)
 <br />
 <br />
+
+<p align="center">
+  <a href='https://www.codewars.com/users/nosovandriy'><img src="https://www.codewars.com/users/VitZkh/badges/small" alt="CodeWars"/></a>
+</p>
 
 ![Andriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosovandriy&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosovandriy&layout=compact)
 
