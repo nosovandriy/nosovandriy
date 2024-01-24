@@ -31,8 +31,6 @@ MY PORTFOLIO [andriynosov.com](https://andriynosov.com)
 <br />
 <br />
 
-<a href='https://www.codewars.com/users/nosovandriy'><img src="https://www.codewars.com/users/nosovandriy/badges/large" alt="CodeWars"/></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andriy-nosov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-vetrov-a580b5238" height="30" width="40" /></a>
