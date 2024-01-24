@@ -25,7 +25,7 @@ CheeseCake shop [https://nahirna-cake.com.ua](https://nahirna-cake.com.ua/)
 
 Logistic company [https://ukrainets.in.ua](https://www.ukrainets.in.ua/)
 
-MY PORTFOLIO [andriynosov.com](https://andriynosov.com)
+MY PORTFOLIO [ANDRIYNOSOV.COM](https://andriynosov.com)
 <br />
 <br />
 
